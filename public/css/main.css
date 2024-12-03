@@ -298,3 +298,6 @@ nav{
     position: relative;
     right: 12px;
 }
+.card-text{
+    font-size: 12px;
+}
