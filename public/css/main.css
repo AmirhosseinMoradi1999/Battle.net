@@ -371,10 +371,21 @@ background-color: #292D34;
     position: relative;
     bottom: 0px;
 }
+.costumfooterxl{
+    position: relative;
+    bottom: 0px;
+}
 .world{
     width: 530px;
     height: 475px;
     background-color: #292D34;
+}
+.worldxl{
+    width: 530px;
+    height: 475px;
+    background-color: #292D34;
+    position: relative;
+    left: 200px;
 }
 .dropdown-item {
     border-radius: 5px;
@@ -603,11 +614,25 @@ font-weight: bolder;
     left: 1100px;
     bottom: 500px;
 }
+.englishxl{
+    position: relative;
+    left: 900px;
+    bottom: 500px;
+}
 .Careers{
     position: relative;
     bottom: 430px;
 }
+.Careersxl{
+    position: relative;
+    bottom: 430px;
+}
 .ascpa{
+    position: relative;
+    bottom: 467px;
+    left: 90px;
+}
+.ascpaxl{
     position: relative;
     bottom: 467px;
     left: 90px;
@@ -675,6 +700,23 @@ background-color: #292D34;
 .blue{
     color: #0074E0;
     text-decoration: underline;
+}
+.backgroundxl{
+    width: 100%;
+    height: 525px;
+}
+.laptopxl{
+    width: 625px;
+    height: 325px;
+    position: relative;
+    bottom: 450px;
+    left: 20px;
+}
+.containerxldive{
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+  
 }
 
   body {
