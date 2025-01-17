@@ -397,6 +397,14 @@ background-color: #292D34;
     left: 200px;
     bottom: 50px;
 }
+.worldsm{
+    width: 530px;
+    height: 475px;
+    background-color: #292D34;
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+}
 .dropdown-item {
     border-radius: 5px;
     background-color: transparent; /* پس‌زمینه پیش‌فرض */
@@ -426,10 +434,24 @@ background-color: #292D34;
     position: relative;
     bottom: 400px;
   }
+  .logofootersm{
+    position: relative;
+    bottom: 370px;
+    left: 200px;
+  }
   .info{
     font-size: 12px;
   
     padding-bottom: 20px;
+  }
+  .infosm{
+    font-size: 12px;
+  
+    padding-bottom: 20px;
+    position: relative;
+    top: 130px;
+    right: 200px;
+    color: white;
   }
   .list{
     background-color: transparent;
@@ -437,8 +459,24 @@ background-color: #292D34;
     border: unset;
     padding-bottom: 20px;
   }
+  .listsm{
+    background-color: transparent;
+    font-size: 12px;
+    border: unset;
+    padding-bottom: 20px;
+    position: relative;
+    top: 70px;
+    right: 100px;
+  }
   .boder{
     border-radius: 50%;
+   
+  }
+  .bodersm{
+    border-radius: 50%;
+    display: flex;
+    flex-flow: column;
+    right: 100px;
   }
   .esrb{
     position: relative;
@@ -629,9 +667,19 @@ font-weight: bolder;
     left: 900px;
     bottom: 500px;
 }
+.englishsm{
+    position: relative;
+    left:250px;
+    bottom: 500px;
+}
 .Careers{
     position: relative;
     bottom: 430px;
+}
+.Careerssm{
+    position: relative;
+    bottom: 320px;
+    left: 160px;
 }
 .Careersxl{
     position: relative;
@@ -647,12 +695,24 @@ font-weight: bolder;
     bottom: 467px;
     left: 90px;
 }
+.ascpasm{
+    position: relative;
+    bottom: 357px;
+    left: 250px;
+}
 .laptopmd{
     width: 500px;
     height: 277px;
     position: relative;
     bottom: 380px;
     left: 20px;
+}
+.laptopsm{
+    width: 500px;
+    height: 277px;
+    position: relative;
+    bottom: 300px;
+    left: 70px;
 }
 .backgroundmd{
     width: 100%;
@@ -663,6 +723,14 @@ font-weight: bolder;
     position: relative;
     bottom: 720px;
     left: 830px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.divesm{
+    width: 100%;
+    position: relative;
+    bottom: 750px;
+    left: 250px;
     font-size: 25px;
     font-weight: bolder;
 }
@@ -678,6 +746,13 @@ font-weight: bolder;
     position: relative;
     bottom: 680px;
     left: 590px;
+    font-size: 16px;
+}
+.joinsm{
+    width: max-content;
+    position: relative;
+    bottom: 680px;
+    left: -550px;
     font-size: 16px;
 }
 .joinxl{
@@ -696,6 +771,19 @@ font-weight: bolder;
     position: relative;
     bottom: 600px;
     left: 350px;
+    border-radius: 5px;
+    border: unset;
+
+}
+.windowssm{
+    width: 286px;
+    height: 43px;
+    background-color: #0074E0;
+    color: white;
+    font-weight: bolder;
+    position: relative;
+    bottom: 665px;
+    right: 50px;
     border-radius: 5px;
     border: unset;
 
@@ -725,6 +813,18 @@ background-color: #292D34;
     position: relative;
     border: unset;
 }
+.learnsm{
+    width: 158px;
+    height: 43px;
+    font-weight: bolder;
+    color: white;
+    bottom: 665px;
+    right: 30px;
+    border-radius: 5px;
+background-color: #292D34;
+    position: relative;
+    border: unset;
+}
 .learnxl{
     width: 158px;
     height: 43px;
@@ -743,6 +843,15 @@ background-color: #292D34;
     position: relative;
     bottom: 450px;
     right: 90px ;
+    font-size: 18px;
+    color: gray;
+    font-size: 14px;
+}
+.Alsosm{
+    width: 999999999999999px;
+    position: relative;
+    bottom: 620px;
+    right: 270px ;
     font-size: 18px;
     color: gray;
     font-size: 14px;
